@@ -1,5 +1,4 @@
-# buzzkill-lua
-A simple Lua library to play notes and frequencies on NodeMCU ESP8266
+A simple Lua library to play notes and frequencies on NodeMCU ESP8266 using a piezoelectric (piezo) buzzer.
 
 NOTE: Calling notes by their letter is experimental right now. Suggestions and modifications are welcome in a pull request form. Using frequencies is recommended at this point as notes and their frequencies may change.
 
